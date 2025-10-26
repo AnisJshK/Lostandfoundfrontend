@@ -1,4 +1,4 @@
-const apiUrl = "https://lostandfoundbackend.onrender.com";
+const apiUrl ="https://lostandfoundbackend-gl6z.onrender.com/";
 let currentUser = null;
 let currentReportType = "person";
 let currentFilter = "all";
